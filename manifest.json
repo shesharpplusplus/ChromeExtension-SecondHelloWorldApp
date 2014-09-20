@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "AdvancedHelloWorldApp",
+  "description": "This is a slightly complex Hello World App",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "hello.png",
+	"default_popup" : "helloworld.html"
+  }
+}
